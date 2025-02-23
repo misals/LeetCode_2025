@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/misals/LeetCode_2025/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/misals/LeetCode_2025/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -138,11 +140,17 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->

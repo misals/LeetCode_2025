@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
@@ -69,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/misals/LeetCode_2025/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -173,5 +175,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->

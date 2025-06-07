@@ -43,6 +43,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [2434-design-a-number-container-system](https://github.com/misals/LeetCode_2025/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Union Find
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | ------- |
 | [0135-candy](https://github.com/misals/LeetCode_2025/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/misals/LeetCode_2025/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Depth-First Search
 |  |
@@ -119,6 +122,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/misals/LeetCode_2025/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/misals/LeetCode_2025/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -146,6 +150,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/misals/LeetCode_2025/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |

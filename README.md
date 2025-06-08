@@ -95,6 +95,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/misals/LeetCode_2025/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/misals/LeetCode_2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -188,4 +189,8 @@
 | ------- |
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/misals/LeetCode_2025/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

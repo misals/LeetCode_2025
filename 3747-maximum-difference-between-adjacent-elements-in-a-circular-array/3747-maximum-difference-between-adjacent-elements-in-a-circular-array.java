@@ -1,14 +1,14 @@
 class Solution {
     public int maxAdjacentDistance(int[] nums) {
         int n = nums.length;
-        int maxi = Integer.MIN_VALUE;
+        int ans = Integer.MIN_VALUE;
 
         for (int i = 1; i < n; i++) {
-            maxi = Math.max(maxi, nums[i] - nums[i-1]);
+            ans = Math.max(ans, Math.abs(nums[i-1] - nums[i]));
         }
 
-        maxi = Math.max(maxi, nums[n-1] - nums[0]);
+        ans = Math.max(ans, Math.abs(nums[0] - nums[n-1]));
 
-        return Math.abs(maxi);
+        return ans;
     }
 }

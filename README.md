@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/misals/LeetCode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/misals/LeetCode_2025/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/misals/LeetCode_2025/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/misals/LeetCode_2025/tree/master/0051-n-queens) |
@@ -51,11 +52,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/misals/LeetCode_2025/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/misals/LeetCode_2025/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -162,6 +165,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/misals/LeetCode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/misals/LeetCode_2025/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/misals/LeetCode_2025/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/misals/LeetCode_2025/tree/master/0051-n-queens) |

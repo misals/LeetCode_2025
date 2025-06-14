@@ -127,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/misals/LeetCode_2025/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -170,6 +171,7 @@
 | [0040-combination-sum-ii](https://github.com/misals/LeetCode_2025/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/misals/LeetCode_2025/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/misals/LeetCode_2025/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/misals/LeetCode_2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -193,6 +195,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |

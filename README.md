@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/misals/LeetCode_2025/tree/master/0060-permutation-sequence) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/misals/LeetCode_2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/misals/LeetCode_2025/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/misals/LeetCode_2025/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->

@@ -76,6 +76,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Union Find
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/misals/LeetCode_2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/misals/LeetCode_2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/misals/LeetCode_2025/tree/master/3447-clear-digits) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/misals/LeetCode_2025/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |

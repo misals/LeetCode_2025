@@ -41,7 +41,7 @@ class Solution {
                 }
             }
 
-            ans.add(new ArrayList<>(temp));
+            ans.add(temp);
         }
         return ans;
     }

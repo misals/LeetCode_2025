@@ -22,7 +22,7 @@ class Solution {
             return false;
         }
 
-        return checkSymmectric(left.left, right.right) && checkSymmectric(left.right, right.right);
+        return checkSymmectric(left.left, right.right) && checkSymmectric(left.right, right.left);
     }
 
     public boolean isSymmetric(TreeNode root) {

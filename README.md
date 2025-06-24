@@ -25,6 +25,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/misals/LeetCode_2025/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/misals/LeetCode_2025/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Trie
 |  |

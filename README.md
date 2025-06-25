@@ -133,6 +133,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/misals/LeetCode_2025/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/misals/LeetCode_2025/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/misals/LeetCode_2025/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -217,6 +219,7 @@
 | [0051-n-queens](https://github.com/misals/LeetCode_2025/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/misals/LeetCode_2025/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/misals/LeetCode_2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -233,6 +236,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/misals/LeetCode_2025/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -252,6 +256,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/misals/LeetCode_2025/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |

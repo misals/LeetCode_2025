@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3618-find-the-original-typed-string-ii](https://github.com/misals/LeetCode_2025/tree/master/3618-find-the-original-typed-string-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/misals/LeetCode_2025/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
@@ -198,6 +199,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/misals/LeetCode_2025/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/misals/LeetCode_2025/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/misals/LeetCode_2025/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -321,6 +323,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/misals/LeetCode_2025/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |

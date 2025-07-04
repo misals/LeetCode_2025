@@ -180,6 +180,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/misals/LeetCode_2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/misals/LeetCode_2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -340,10 +341,12 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/misals/LeetCode_2025/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/misals/LeetCode_2025/tree/master/0222-count-complete-tree-nodes) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/misals/LeetCode_2025/tree/master/0060-permutation-sequence) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Enumeration
 |  |
 | ------- |

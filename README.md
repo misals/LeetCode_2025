@@ -146,6 +146,7 @@
 | [0101-symmetric-tree](https://github.com/misals/LeetCode_2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/misals/LeetCode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/misals/LeetCode_2025/tree/master/0199-binary-tree-right-side-view) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/misals/LeetCode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -268,6 +270,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/misals/LeetCode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/misals/LeetCode_2025/tree/master/0199-binary-tree-right-side-view) |
@@ -298,6 +301,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/misals/LeetCode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/misals/LeetCode_2025/tree/master/0199-binary-tree-right-side-view) |
@@ -375,4 +379,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/misals/LeetCode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->

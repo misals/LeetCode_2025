@@ -27,6 +27,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/misals/LeetCode_2025/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/misals/LeetCode_2025/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/misals/LeetCode_2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/misals/LeetCode_2025/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/misals/LeetCode_2025/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -92,6 +93,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/misals/LeetCode_2025/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/misals/LeetCode_2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/misals/LeetCode_2025/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
@@ -232,6 +234,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/misals/LeetCode_2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/misals/LeetCode_2025/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |

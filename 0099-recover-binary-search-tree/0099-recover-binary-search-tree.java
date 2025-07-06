@@ -42,11 +42,11 @@ class Solution {
     public void recoverTree(TreeNode root) {
         prev = new TreeNode(Integer.MIN_VALUE);
         inorderTraversal(root);
-        if (first != null && last != null) {
+        if (last != null) {
             int num = first.val;
             first.val = last.val;
             last.val = num;
-        } else if (first != null && middle != null) {
+        } else if (middle != null) {
             int num = first.val;
             first.val = middle.val;
             middle.val = num;

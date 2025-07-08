@@ -25,6 +25,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/misals/LeetCode_2025/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/misals/LeetCode_2025/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/misals/LeetCode_2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -117,6 +118,7 @@
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -366,6 +368,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/misals/LeetCode_2025/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
@@ -400,6 +403,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/misals/LeetCode_2025/tree/master/0222-count-complete-tree-nodes) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/misals/LeetCode_2025/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Memoization
 |  |

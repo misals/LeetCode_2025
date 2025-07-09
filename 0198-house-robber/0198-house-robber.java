@@ -5,20 +5,22 @@ class Solution {
             return nums[0];
         }
 
-        int[] dp = new int[n+1];
-        dp[0] = nums[0];
+        int prev = nums[0];
+        int secondPrev = 0;
 
         for (int i = 1; i < n; i++) {
-            int notPick = dp[i-1];
+            int notPick = prev;
             int pick = nums[i];
 
             if (i - 2 >= 0) {
-                pick += dp[i-2];
+                pick += secondPrev;
             }
 
-            dp[i] = Math.max(pick, notPick);
+            int curr = Math.max(pick, notPick);
+            secondPrev = prev;
+            prev = curr;
         }
 
-        return dp[n-1];
+        return prev;
     }
 }

@@ -49,6 +49,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/misals/LeetCode_2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/misals/LeetCode_2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -120,6 +121,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -140,6 +142,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -162,6 +165,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/misals/LeetCode_2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |

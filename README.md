@@ -231,6 +231,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -399,6 +400,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/misals/LeetCode_2025/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/misals/LeetCode_2025/tree/master/0120-triangle) |

@@ -63,6 +63,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/misals/LeetCode_2025/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/misals/LeetCode_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/misals/LeetCode_2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/misals/LeetCode_2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/misals/LeetCode_2025/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/misals/LeetCode_2025/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -459,6 +462,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/misals/LeetCode_2025/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/misals/LeetCode_2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -496,4 +500,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/misals/LeetCode_2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

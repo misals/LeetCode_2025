@@ -48,6 +48,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/misals/LeetCode_2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/misals/LeetCode_2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/misals/LeetCode_2025/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/misals/LeetCode_2025/tree/master/3618-find-the-original-typed-string-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/misals/LeetCode_2025/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -451,6 +453,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/misals/LeetCode_2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/misals/LeetCode_2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |

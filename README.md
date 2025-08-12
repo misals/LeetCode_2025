@@ -15,6 +15,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/misals/LeetCode_2025/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/misals/LeetCode_2025/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/misals/LeetCode_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/misals/LeetCode_2025/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
@@ -414,6 +415,7 @@
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/misals/LeetCode_2025/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/misals/LeetCode_2025/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/misals/LeetCode_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |

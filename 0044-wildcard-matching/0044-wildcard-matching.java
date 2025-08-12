@@ -1,10 +1,13 @@
 class Solution {
     public int isMatch(int i, int j, char[] s, char[] t, int[][] dp) {
         if (i == 0 && j == 0) return 1;
-        if (j == 0 && i > 0) return 0;
+        if (i > 0 && j == 0) return 0;
+
         if (i == 0 && j > 0) {
             for (int ind = 1; ind <= j; ind++) {
-                if (t[ind - 1] != '*') return 0;
+                if (t[ind - 1] != '*') {
+                    return 0;
+                }
             }
             return 1;
         }
@@ -19,7 +22,7 @@ class Solution {
             return dp[i][j] = isMatch(i, j - 1, s, t, dp) | isMatch(i - 1, j, s, t, dp);
         }
 
-        return dp[i][j] = 0;
+       return dp[i][j] = 0;
     }
 
     public boolean isMatch(String str1, String str2) {
@@ -30,7 +33,10 @@ class Solution {
         char[] t = str2.toCharArray();
 
         int[][] dp = new int[n + 1][m + 1];
-        for (int[] row : dp) Arrays.fill(row, -1);
+
+        for (int i = 0; i <= n; i++) {
+            Arrays.fill(dp[i], -1);
+        }
 
         return isMatch(n, m, s, t, dp) == 1;
     }

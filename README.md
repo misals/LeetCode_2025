@@ -56,6 +56,7 @@
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/misals/LeetCode_2025/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/misals/LeetCode_2025/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |

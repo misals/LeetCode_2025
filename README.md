@@ -236,6 +236,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/misals/LeetCode_2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/misals/LeetCode_2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/misals/LeetCode_2025/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |

@@ -32,6 +32,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/misals/LeetCode_2025/tree/master/1121-partition-array-for-maximum-sum) |
 | [1293-three-consecutive-odds](https://github.com/misals/LeetCode_2025/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -439,6 +440,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/misals/LeetCode_2025/tree/master/1121-partition-array-for-maximum-sum) |
 | [1170-shortest-common-supersequence](https://github.com/misals/LeetCode_2025/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/misals/LeetCode_2025/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/misals/LeetCode_2025/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |

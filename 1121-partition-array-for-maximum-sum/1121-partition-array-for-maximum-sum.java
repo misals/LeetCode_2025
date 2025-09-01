@@ -1,29 +1,24 @@
 class Solution {
-    public int maxSumAfterPartitioning(int ind, int k, int n, int[] arr, int[] dp) {
-        if (ind >= n) return 0;
-
-        if (dp[ind] != -1) return dp[ind];
-
-        int len = 0;
-        int maxi = Integer.MIN_VALUE;
-        int ans = Integer.MIN_VALUE;
-
-        for (int i = ind; i < Math.min(n, ind + k); i++) {
-            len++;
-            maxi = Math.max(maxi, arr[i]);
-            int val = (maxi * len) + maxSumAfterPartitioning(i + 1, k, n, arr, dp);
-
-            ans = Math.max(ans, val);
-        }
-        return dp[ind] = ans;
-    }
-
     public int maxSumAfterPartitioning(int[] arr, int k) {
         int n = arr.length;
 
-        int[] dp = new int[n];
-        Arrays.fill(dp, -1);
+        int[] dp = new int[n + 1];
 
-        return maxSumAfterPartitioning(0, k, n, arr, dp);
+        for (int i = n - 1; i >= 0; i--) {
+            int len = 0;
+            int maxi = Integer.MIN_VALUE;
+            int ans = Integer.MIN_VALUE;
+
+            for (int j = i; j < Math.min(n, i + k); j++) {
+                len++;
+                maxi = Math.max(maxi, arr[j]);
+                int val = (maxi * len) + dp[j + 1];
+
+                ans = Math.max(ans, val);
+            }
+            dp[i] = ans;
+        }
+
+        return dp[0];
     }
 }

@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/misals/LeetCode_2025/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/misals/LeetCode_2025/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -108,6 +109,7 @@
 | [0036-valid-sudoku](https://github.com/misals/LeetCode_2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/misals/LeetCode_2025/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/misals/LeetCode_2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/misals/LeetCode_2025/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/misals/LeetCode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
@@ -435,6 +438,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/misals/LeetCode_2025/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/misals/LeetCode_2025/tree/master/0120-triangle) |
@@ -566,4 +570,5 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/misals/LeetCode_2025/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

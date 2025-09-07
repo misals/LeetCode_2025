@@ -38,6 +38,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/misals/LeetCode_2025/tree/master/1121-partition-array-for-maximum-sum) |
 | [1293-three-consecutive-odds](https://github.com/misals/LeetCode_2025/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/misals/LeetCode_2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/misals/LeetCode_2025/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -247,6 +248,7 @@
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/misals/LeetCode_2025/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/misals/LeetCode_2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/misals/LeetCode_2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/misals/LeetCode_2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/misals/LeetCode_2025/tree/master/2202-sum-of-k-mirror-numbers) |

@@ -28,6 +28,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/misals/LeetCode_2025/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/misals/LeetCode_2025/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/misals/LeetCode_2025/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/misals/LeetCode_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
@@ -343,6 +344,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/misals/LeetCode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/misals/LeetCode_2025/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/misals/LeetCode_2025/tree/master/0503-next-greater-element-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/misals/LeetCode_2025/tree/master/3447-clear-digits) |
@@ -587,6 +589,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/misals/LeetCode_2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/misals/LeetCode_2025/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/misals/LeetCode_2025/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |

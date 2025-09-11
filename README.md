@@ -168,6 +168,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/misals/LeetCode_2025/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/misals/LeetCode_2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -287,6 +288,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/misals/LeetCode_2025/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/misals/LeetCode_2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/misals/LeetCode_2025/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/misals/LeetCode_2025/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |

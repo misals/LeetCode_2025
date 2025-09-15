@@ -138,6 +138,7 @@
 | [1006-vowel-spellchecker](https://github.com/misals/LeetCode_2025/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/misals/LeetCode_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -288,6 +289,7 @@
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/misals/LeetCode_2025/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/misals/LeetCode_2025/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/misals/LeetCode_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/misals/LeetCode_2025/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/misals/LeetCode_2025/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |

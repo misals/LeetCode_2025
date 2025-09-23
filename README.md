@@ -291,6 +291,7 @@
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/misals/LeetCode_2025/tree/master/0132-palindrome-partitioning-ii) |
+| [0165-compare-version-numbers](https://github.com/misals/LeetCode_2025/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
@@ -515,6 +516,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/misals/LeetCode_2025/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |

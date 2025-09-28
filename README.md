@@ -270,6 +270,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/misals/LeetCode_2025/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/misals/LeetCode_2025/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/misals/LeetCode_2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
@@ -488,6 +489,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/misals/LeetCode_2025/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
@@ -634,4 +636,8 @@
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/misals/LeetCode_2025/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/misals/LeetCode_2025/tree/master/3827-implement-router) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/misals/LeetCode_2025/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

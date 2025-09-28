@@ -19,10 +19,10 @@ class Solution {
         if (left != null && right != null) {
             return root;
         }
-        if (left == null) {
-            return right;
-        } else {
+
+        if (left != null) {
             return left;
         }
+        return right;
     }
 }

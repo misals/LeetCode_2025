@@ -19,6 +19,7 @@ class Solution {
         if (root == null) {
             return;
         }
+
         flatten(root.right);
         flatten(root.left);
 

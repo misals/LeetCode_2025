@@ -28,6 +28,7 @@
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/misals/LeetCode_2025/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
@@ -515,6 +516,7 @@
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/misals/LeetCode_2025/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/misals/LeetCode_2025/tree/master/0518-coin-change-ii) |

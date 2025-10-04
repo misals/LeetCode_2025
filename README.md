@@ -29,6 +29,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/misals/LeetCode_2025/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/misals/LeetCode_2025/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
@@ -524,6 +525,7 @@
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/misals/LeetCode_2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/misals/LeetCode_2025/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
@@ -600,6 +602,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/misals/LeetCode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/misals/LeetCode_2025/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/misals/LeetCode_2025/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/misals/LeetCode_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/misals/LeetCode_2025/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |

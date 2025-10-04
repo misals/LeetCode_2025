@@ -14,24 +14,27 @@
  * }
  */
 class Solution {
-    public void inoderTraversal(String s, List<String> ans, TreeNode node) {
-        if (node == null) {
+    public void binaryTreePaths(TreeNode root, String s, List<String> ans) {
+        if (root == null) {
             return;
         }
-        if (node.left == null && node.right == null) {
-            s = s + Integer.toString(node.val);
+
+        if (root.left == null && root.right == null) {
+            s = s + Integer.toString(root.val);
             ans.add(s);
             return;
         }
-        s = s + Integer.toString(node.val) + "->";
-        inoderTraversal(s, ans, node.left);
-        inoderTraversal(s, ans, node.right);
 
+        s = s + Integer.toString(root.val) + "->";
+        binaryTreePaths(root.left, s, ans);
+        binaryTreePaths(root.right, s, ans);
     }
 
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> ans = new ArrayList<>();
-        inoderTraversal("", ans, root);
+
+        binaryTreePaths(root, "", ans);
+
         return ans;
     }
 }

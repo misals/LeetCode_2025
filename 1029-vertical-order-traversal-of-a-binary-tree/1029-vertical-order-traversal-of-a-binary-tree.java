@@ -17,10 +17,10 @@ class Tuple {
     TreeNode node;
     int row;
     int col;
-    public Tuple(TreeNode _node, int _row, int _col) {
-        node = _node;
-        row = _row;
-        col = _col;
+    public Tuple(TreeNode node, int row, int col) {
+        this.node = node;
+        this.row = row;
+        this.col = col;
     }
 }
 
@@ -35,6 +35,7 @@ class Solution {
 
             for (int i = 0; i < n; i++) {
                 Tuple tuple = q.poll();
+
                 TreeNode node = tuple.node;
                 int x = tuple.row;
                 int y = tuple.col;
@@ -58,16 +59,15 @@ class Solution {
         }
 
         List<List<Integer>> ans = new ArrayList<>();
-        int ind = 0;
 
         for (TreeMap<Integer, PriorityQueue<Integer>> mp : map.values()) {
-            ans.add(new ArrayList<>());
+            List<Integer> temp = new ArrayList<>();
             for (PriorityQueue<Integer> pq : mp.values()) {
                 while (!pq.isEmpty()) {
-                    ans.get(ind).add(pq.poll());
+                    temp.add(pq.poll());
                 }
-            }   
-            ind++;
+            }
+            ans.add(temp);
         }
 
         return ans;

@@ -121,6 +121,7 @@
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/misals/LeetCode_2025/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/misals/LeetCode_2025/tree/master/0547-number-of-provinces) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -280,6 +282,7 @@
 | [0386-lexicographical-numbers](https://github.com/misals/LeetCode_2025/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/misals/LeetCode_2025/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -292,6 +295,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/misals/LeetCode_2025/tree/master/0547-number-of-provinces) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/misals/LeetCode_2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Topological Sort

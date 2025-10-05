@@ -47,6 +47,7 @@
 | [0496-next-greater-element-i](https://github.com/misals/LeetCode_2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/misals/LeetCode_2025/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/misals/LeetCode_2025/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/misals/LeetCode_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
@@ -126,6 +127,7 @@
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/misals/LeetCode_2025/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
@@ -156,6 +158,7 @@
 | [0200-number-of-islands](https://github.com/misals/LeetCode_2025/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
@@ -572,6 +575,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/misals/LeetCode_2025/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |

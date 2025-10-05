@@ -1,46 +1,35 @@
 class Solution {
-    int[] dx = {0, -1, 0, 1};
-    int[] dy = {-1, 0, 1, 0};
-
-    public boolean isValid (int i, int j, int n, int m) {
-        if (i < 0 || j < 0 || i >= n || j >= m) {
-            return false;
-        }
-        return true;
-    }
-
-    public void dfs(int i, int j, int n, int m, char[][] board, boolean[][] vis) {
+    public void dfs(int i, int j, char[][] board) {
         if (board[i][j] == 'O') {
             board[i][j] = '*';
-        }
-        vis[i][j] = true;
 
-        for (int ind = 0; ind < 4; ind++) {
-            int x = i + dx[ind];
-            int y = j + dy[ind];
-
-            if (isValid(x, y, n, m) && !vis[x][y]) {
-                dfs(x, y, n, m, board, vis);
+            if(i + 1 < board.length) {
+                dfs(i+1, j, board);
+            }
+            if(i - 1 >= 0) {
+                dfs(i-1, j, board);
+            }
+            if(j + 1 < board[0].length) {
+                dfs(i, j+1, board);
+            }
+            if(j - 1 >= 0) {
+                dfs(i, j-1, board);
             }
         }
-
-
     }
 
     public void solve(char[][] board) {
         int n = board.length;
         int m = board[0].length;
 
-        boolean[][] vis = new boolean[n][m];
-
         for (int i = 0; i < n; i++) {
-            dfs(i, 0, n, m, board, vis);
-            dfs(i, m - 1, n, m, board, vis);
+            dfs(i, 0, board);
+            dfs(i, m - 1, board);
         }
 
         for (int i = 0; i < m; i++) {
-            dfs(0, i, n, m, board, vis);
-            dfs(n - 1, i, n, m, board, vis);
+            dfs(0, i, board);
+            dfs(n - 1, i, board);
         }
 
         for (int i = 0; i < n; i++) {

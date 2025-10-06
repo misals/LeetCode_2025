@@ -91,6 +91,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/misals/LeetCode_2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
@@ -141,6 +142,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
+| [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/misals/LeetCode_2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
@@ -320,6 +323,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/misals/LeetCode_2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
 ## Graph
 |  |
 | ------- |
@@ -420,6 +424,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/misals/LeetCode_2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/misals/LeetCode_2025/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/misals/LeetCode_2025/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/misals/LeetCode_2025/tree/master/3447-clear-digits) |

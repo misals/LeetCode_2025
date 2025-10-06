@@ -52,6 +52,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/misals/LeetCode_2025/tree/master/0830-largest-triangle-area) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -132,6 +133,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/misals/LeetCode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/misals/LeetCode_2025/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/misals/LeetCode_2025/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/misals/LeetCode_2025/tree/master/2434-design-a-number-container-system) |
@@ -161,6 +164,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/misals/LeetCode_2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -217,6 +221,7 @@
 | [0130-surrounded-regions](https://github.com/misals/LeetCode_2025/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/misals/LeetCode_2025/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/misals/LeetCode_2025/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -304,6 +309,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -656,6 +662,7 @@
 | [0035-search-insert-position](https://github.com/misals/LeetCode_2025/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/misals/LeetCode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/misals/LeetCode_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/misals/LeetCode_2025/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |

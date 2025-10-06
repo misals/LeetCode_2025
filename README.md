@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/misals/LeetCode_2025/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/misals/LeetCode_2025/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/misals/LeetCode_2025/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/misals/LeetCode_2025/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/misals/LeetCode_2025/tree/master/0084-largest-rectangle-in-histogram) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/misals/LeetCode_2025/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/misals/LeetCode_2025/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/misals/LeetCode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/misals/LeetCode_2025/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
@@ -572,6 +574,7 @@
 | [0042-trapping-rain-water](https://github.com/misals/LeetCode_2025/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/misals/LeetCode_2025/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/misals/LeetCode_2025/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/misals/LeetCode_2025/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |

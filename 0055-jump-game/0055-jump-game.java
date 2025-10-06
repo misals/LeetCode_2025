@@ -1,6 +1,6 @@
 class Solution {
     public boolean canJump(int ind, int n, int[] nums, int[] dp) {
-        if (ind >= n) {
+        if (ind >= n - 1) {
             return true;
         }
 
@@ -21,9 +21,6 @@ class Solution {
     public boolean canJump(int[] nums) {
         int n = nums.length;
 
-        if (nums[0] == 0) {
-            return true;
-        }
 
         int[] dp = new int[n + 1];
         Arrays.fill(dp, -1);

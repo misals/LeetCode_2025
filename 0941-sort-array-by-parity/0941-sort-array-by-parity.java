@@ -3,20 +3,14 @@ class Solution {
         int n = nums.length;
         int ind = 0;
 
-        int[] ans = new int[n];
-
         for (int i = 0; i < n; i++) {
             if (nums[i] % 2 == 0) {
-                ans[ind] = nums[i];
+                int temp = nums[ind];
+                nums[ind] = nums[i];
+                nums[i] = temp;
                 ind++;
             }
         }
-        for (int i = 0; i < n; i++) {
-            if (nums[i] % 2 != 0) {
-                ans[ind] = nums[i];
-                ind++;
-            }
-        }
-        return ans;
+        return nums;
     }
 }

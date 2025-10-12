@@ -122,6 +122,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/misals/LeetCode_2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/misals/LeetCode_2025/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/misals/LeetCode_2025/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/misals/LeetCode_2025/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
@@ -634,6 +636,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3618-find-the-original-typed-string-ii](https://github.com/misals/LeetCode_2025/tree/master/3618-find-the-original-typed-string-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/misals/LeetCode_2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -668,6 +671,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/misals/LeetCode_2025/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -771,6 +775,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/misals/LeetCode_2025/tree/master/0062-unique-paths) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -783,4 +788,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/misals/LeetCode_2025/tree/master/0239-sliding-window-maximum) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->

@@ -378,6 +378,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/misals/LeetCode_2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/misals/LeetCode_2025/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/misals/LeetCode_2025/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/misals/LeetCode_2025/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/misals/LeetCode_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |

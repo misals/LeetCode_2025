@@ -77,6 +77,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/misals/LeetCode_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/misals/LeetCode_2025/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/misals/LeetCode_2025/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/misals/LeetCode_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/misals/LeetCode_2025/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -310,6 +311,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/misals/LeetCode_2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/misals/LeetCode_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/misals/LeetCode_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/misals/LeetCode_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/misals/LeetCode_2025/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/misals/LeetCode_2025/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -429,6 +431,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/misals/LeetCode_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/misals/LeetCode_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/misals/LeetCode_2025/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/misals/LeetCode_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/misals/LeetCode_2025/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
@@ -663,6 +666,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/misals/LeetCode_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/misals/LeetCode_2025/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/misals/LeetCode_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/misals/LeetCode_2025/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |

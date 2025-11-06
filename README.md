@@ -137,6 +137,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/misals/LeetCode_2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/misals/LeetCode_2025/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/misals/LeetCode_2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/misals/LeetCode_2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/misals/LeetCode_2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/misals/LeetCode_2025/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3827-implement-router](https://github.com/misals/LeetCode_2025/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/misals/LeetCode_2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -264,6 +268,7 @@
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -370,6 +375,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -377,6 +383,7 @@
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/misals/LeetCode_2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -512,6 +519,7 @@
 | [2434-design-a-number-container-system](https://github.com/misals/LeetCode_2025/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/misals/LeetCode_2025/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |

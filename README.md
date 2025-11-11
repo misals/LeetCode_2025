@@ -45,6 +45,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/misals/LeetCode_2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/misals/LeetCode_2025/tree/master/0503-next-greater-element-ii) |
@@ -441,6 +442,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/misals/LeetCode_2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
 | [1006-vowel-spellchecker](https://github.com/misals/LeetCode_2025/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -673,6 +675,7 @@
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/misals/LeetCode_2025/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |

@@ -108,6 +108,7 @@
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/misals/LeetCode_2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -418,6 +419,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/misals/LeetCode_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/misals/LeetCode_2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/misals/LeetCode_2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/misals/LeetCode_2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/misals/LeetCode_2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/misals/LeetCode_2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -878,5 +880,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/misals/LeetCode_2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/misals/LeetCode_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->

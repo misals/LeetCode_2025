@@ -92,6 +92,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/misals/LeetCode_2025/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/misals/LeetCode_2025/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/misals/LeetCode_2025/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/misals/LeetCode_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/misals/LeetCode_2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -241,6 +242,7 @@
 | [2023-design-movie-rental-system](https://github.com/misals/LeetCode_2025/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/misals/LeetCode_2025/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/misals/LeetCode_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/misals/LeetCode_2025/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/misals/LeetCode_2025/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
@@ -290,6 +292,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/misals/LeetCode_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/misals/LeetCode_2025/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/misals/LeetCode_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/misals/LeetCode_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -507,6 +510,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/misals/LeetCode_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/misals/LeetCode_2025/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/misals/LeetCode_2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/misals/LeetCode_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/misals/LeetCode_2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/misals/LeetCode_2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/misals/LeetCode_2025/tree/master/2408-number-of-people-aware-of-a-secret) |

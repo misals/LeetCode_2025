@@ -113,6 +113,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/misals/LeetCode_2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/misals/LeetCode_2025/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -432,6 +433,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/misals/LeetCode_2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/misals/LeetCode_2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/misals/LeetCode_2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/misals/LeetCode_2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/misals/LeetCode_2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/misals/LeetCode_2025/tree/master/3279-alice-and-bob-playing-flower-game) |

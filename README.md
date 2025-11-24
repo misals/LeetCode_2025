@@ -64,6 +64,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/misals/LeetCode_2025/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/misals/LeetCode_2025/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/misals/LeetCode_2025/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/misals/LeetCode_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/misals/LeetCode_2025/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/misals/LeetCode_2025/tree/master/1121-partition-array-for-maximum-sum) |
@@ -760,6 +761,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/misals/LeetCode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/misals/LeetCode_2025/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/misals/LeetCode_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/misals/LeetCode_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/misals/LeetCode_2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |

@@ -101,6 +101,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/misals/LeetCode_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/misals/LeetCode_2025/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -210,6 +211,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/misals/LeetCode_2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/misals/LeetCode_2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
@@ -725,6 +727,7 @@
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/misals/LeetCode_2025/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/misals/LeetCode_2025/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/misals/LeetCode_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |

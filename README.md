@@ -442,6 +442,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/misals/LeetCode_2025/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/misals/LeetCode_2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/misals/LeetCode_2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/misals/LeetCode_2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/misals/LeetCode_2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/misals/LeetCode_2025/tree/master/1636-number-of-substrings-with-only-1s) |

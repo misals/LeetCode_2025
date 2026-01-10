@@ -501,6 +501,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/misals/LeetCode_2025/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/misals/LeetCode_2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/misals/LeetCode_2025/tree/master/1006-vowel-spellchecker) |
@@ -753,6 +754,7 @@
 | [0518-coin-change-ii](https://github.com/misals/LeetCode_2025/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/misals/LeetCode_2025/tree/master/1111-minimum-score-triangulation-of-polygon) |

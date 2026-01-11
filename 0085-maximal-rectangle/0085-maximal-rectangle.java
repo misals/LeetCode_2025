@@ -1,6 +1,7 @@
 class Solution {
-    public int findMaxHistogram(int[] nums) {
-        int n = nums.length;
+    public int findLaregstRectangle(int[] arr) {
+        int n = arr.length;
+        int ans = 0;
 
         int[] left = new int[n];
         int[] right = new int[n];
@@ -8,10 +9,10 @@ class Solution {
         Stack<Integer> st = new Stack<>();
 
         for (int i = 0; i < n; i++) {
-            while (!st.isEmpty() && nums[st.peek()] >= nums[i]) {
+            while (!st.isEmpty() && arr[st.peek()] >= arr[i]) {
                 st.pop();
             }
-
+            
             if (st.isEmpty()) {
                 left[i] = 0;
             } else {
@@ -25,10 +26,10 @@ class Solution {
         }
 
         for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && nums[st.peek()] >= nums[i]) {
+            while (!st.isEmpty() && arr[st.peek()] >= arr[i]) {
                 st.pop();
             }
-
+            
             if (st.isEmpty()) {
                 right[i] = n - 1;
             } else {
@@ -37,26 +38,28 @@ class Solution {
             st.push(i);
         }
 
-        int maxi = 0;
-
         for (int i = 0; i < n; i++) {
-            maxi = Math.max(maxi, nums[i] * (right[i] - left[i] + 1));
+            ans = Math.max(ans, (right[i] - left[i] + 1) * arr[i]);
         }
-        return maxi;
+        return ans;
     }
 
-    public int maximalRectangle(char[][] arr) {
-        int n = arr.length;
-        int m = arr[0].length;
+    public int maximalRectangle(char[][] matrix) {
+        int n = matrix.length;
+        int m = matrix[0].length;
 
-        int[][] matrix = new int[n][m];
+        int[][] arr = new int[n][m];
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (arr[i][j] == '1') {
-                    matrix[i][j] = 1;
-                } else {
-                    matrix[i][j] = 0;
+                arr[i][j] = matrix[i][j] == '1' ? 1 : 0;
+            }
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (arr[i][j] > 0) {
+                    arr[i][j] = arr[i][j] + arr[i - 1][j];
                 }
             }
         }
@@ -64,18 +67,10 @@ class Solution {
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            if (i > 0) {
-                for (int j = 0; j < m; j++) {
-                    if (matrix[i][j] == 1) {
-                        matrix[i][j] = 1 + matrix[i - 1][j];
-                    } else {
-                        matrix[i][j] = 0;
-                    }
-                }
-            }
-            int val = findMaxHistogram(matrix[i]);
+            int val = findLaregstRectangle(arr[i]);
             ans = Math.max(ans, val);
         }
+
         return ans;
     }
 }

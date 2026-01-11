@@ -1,0 +1,17 @@
+class Solution {
+    public int residuePrefixes(String s) {
+        int n = s.length();
+        Set<Character> set = new HashSet<>();
+
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            set.add(s.charAt(i));
+
+            if (set.size() == (i + 1) % 3) {
+                ans++;
+            }
+        }
+        return ans;
+    }
+}

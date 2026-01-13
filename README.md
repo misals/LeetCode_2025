@@ -120,6 +120,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/misals/LeetCode_2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/misals/LeetCode_2025/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -782,6 +783,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/misals/LeetCode_2025/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/misals/LeetCode_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/misals/LeetCode_2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |

@@ -135,6 +135,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/misals/LeetCode_2025/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/misals/LeetCode_2025/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/misals/LeetCode_2025/tree/master/3531-count-covered-buildings) |
@@ -868,6 +869,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/misals/LeetCode_2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/misals/LeetCode_2025/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/misals/LeetCode_2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/misals/LeetCode_2025/tree/master/3827-implement-router) |
@@ -922,6 +924,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Geometry
 |  |
@@ -979,4 +982,8 @@
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/misals/LeetCode_2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/misals/LeetCode_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->

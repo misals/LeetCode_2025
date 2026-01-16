@@ -122,6 +122,7 @@
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/misals/LeetCode_2025/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/misals/LeetCode_2025/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/misals/LeetCode_2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -278,6 +279,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/misals/LeetCode_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/misals/LeetCode_2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/misals/LeetCode_2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -847,6 +849,7 @@
 | [1925-count-square-sum-triples](https://github.com/misals/LeetCode_2025/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/misals/LeetCode_2025/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/misals/LeetCode_2025/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/misals/LeetCode_2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/misals/LeetCode_2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/misals/LeetCode_2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/misals/LeetCode_2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |

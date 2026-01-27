@@ -522,6 +522,7 @@
 | [1129-longest-string-chain](https://github.com/misals/LeetCode_2025/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/misals/LeetCode_2025/tree/master/1170-shortest-common-supersequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/misals/LeetCode_2025/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/misals/LeetCode_2025/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/misals/LeetCode_2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/misals/LeetCode_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -625,6 +626,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/misals/LeetCode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/misals/LeetCode_2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/misals/LeetCode_2025/tree/master/0503-next-greater-element-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/misals/LeetCode_2025/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/misals/LeetCode_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/misals/LeetCode_2025/tree/master/2211-count-collisions-on-a-road) |

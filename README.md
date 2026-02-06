@@ -154,6 +154,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/misals/LeetCode_2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/misals/LeetCode_2025/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/misals/LeetCode_2025/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/misals/LeetCode_2025/tree/master/3634-minimum-removals-to-balance-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/misals/LeetCode_2025/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/misals/LeetCode_2025/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -348,6 +349,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/misals/LeetCode_2025/tree/master/3531-count-covered-buildings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/misals/LeetCode_2025/tree/master/3634-minimum-removals-to-balance-array) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/misals/LeetCode_2025/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Prefix Sum
 |  |
@@ -905,6 +907,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/misals/LeetCode_2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/misals/LeetCode_2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/misals/LeetCode_2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/misals/LeetCode_2025/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/misals/LeetCode_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search Tree
 |  |

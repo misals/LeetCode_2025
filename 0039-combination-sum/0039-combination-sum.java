@@ -1,33 +1,33 @@
 class Solution {
-    public void findDistinct(int i, int n, int val, int[] candidate, int sum, Set<List<Integer>> ans, List<Integer> temp) {
-        if (val > sum) {
+    public void combinationSum(int ind, int[] candidates, int target, List<Integer> list, Set<List<Integer>> ans) {
+        if (target == 0) {
+            ans.add(new ArrayList<>(list));
+        }
+        if (ind < 0) {
             return;
         }
-        if (val == sum) {
-                ans.add(new ArrayList<>(temp));
-                return;
-            }
-        if (i == n) {
-            if (val == sum) {
-                ans.add(temp);
-            }
-            return;
-        }
-        val += candidate[i];
-        temp.add(candidate[i]);
-        findDistinct(i, n, val, candidate, sum, ans, temp);
-        val -= candidate[i];
-        temp.remove(temp.size() - 1);
-        findDistinct(i + 1, n, val, candidate, sum, ans, temp);
+
+        combinationSum(ind - 1, candidates, target, list, ans);
+        if (target >= candidates[ind]) {
+            list.add(candidates[ind]);
+            combinationSum(ind, candidates, target - candidates[ind], list, ans);
+            list.remove(list.size() - 1);
+        } 
     }
 
-    public List<List<Integer>> combinationSum(int[] candidate, int target) {
-        int n = candidate.length;
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        int n = candidates.length;
+
+        int[][] dp = new int[n][target + 1];
+
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(dp[i], -1);
+        }
 
         Set<List<Integer>> ans = new HashSet<>();
-        List<Integer> temp = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
 
-        findDistinct(0, n, 0, candidate, target, ans, temp);
+        combinationSum(n - 1, candidates, target, list, ans);
 
         List<List<Integer>> res = new ArrayList<>(ans);
 

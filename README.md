@@ -469,6 +469,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/misals/LeetCode_2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
+| [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/misals/LeetCode_2025/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/misals/LeetCode_2025/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/misals/LeetCode_2025/tree/master/1018-largest-perimeter-triangle) |
@@ -777,6 +778,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/misals/LeetCode_2025/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
@@ -857,6 +859,7 @@
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/misals/LeetCode_2025/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Enumeration
 |  |
@@ -897,6 +900,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/misals/LeetCode_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/misals/LeetCode_2025/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |

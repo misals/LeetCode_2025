@@ -117,6 +117,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/misals/LeetCode_2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/misals/LeetCode_2025/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/misals/LeetCode_2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/misals/LeetCode_2025/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -556,6 +557,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/misals/LeetCode_2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/misals/LeetCode_2025/tree/master/2429-design-a-food-rating-system) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/misals/LeetCode_2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/misals/LeetCode_2025/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/misals/LeetCode_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |

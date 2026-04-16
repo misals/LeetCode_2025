@@ -38,6 +38,7 @@
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/misals/LeetCode_2025/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/misals/LeetCode_2025/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/misals/LeetCode_2025/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/misals/LeetCode_2025/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/misals/LeetCode_2025/tree/master/0312-burst-balloons) |
@@ -369,6 +370,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/misals/LeetCode_2025/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/misals/LeetCode_2025/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/misals/LeetCode_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/misals/LeetCode_2025/tree/master/1590-make-sum-divisible-by-p) |

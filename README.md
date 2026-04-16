@@ -146,6 +146,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/misals/LeetCode_2025/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/misals/LeetCode_2025/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/misals/LeetCode_2025/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/misals/LeetCode_2025/tree/master/3531-count-covered-buildings) |
@@ -299,6 +300,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/misals/LeetCode_2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3488-closest-equal-element-queries](https://github.com/misals/LeetCode_2025/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/misals/LeetCode_2025/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/misals/LeetCode_2025/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/misals/LeetCode_2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -911,6 +913,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/misals/LeetCode_2025/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/misals/LeetCode_2025/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/misals/LeetCode_2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/misals/LeetCode_2025/tree/master/3827-implement-router) |

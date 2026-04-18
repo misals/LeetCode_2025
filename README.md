@@ -82,6 +82,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/misals/LeetCode_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/misals/LeetCode_2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/misals/LeetCode_2025/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/misals/LeetCode_2025/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
@@ -346,6 +347,7 @@
 | [1200-minimum-absolute-difference](https://github.com/misals/LeetCode_2025/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/misals/LeetCode_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/misals/LeetCode_2025/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/misals/LeetCode_2025/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/misals/LeetCode_2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -852,6 +854,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0941-sort-array-by-parity](https://github.com/misals/LeetCode_2025/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/misals/LeetCode_2025/tree/master/1129-longest-string-chain) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/misals/LeetCode_2025/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/misals/LeetCode_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -911,6 +914,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/misals/LeetCode_2025/tree/master/1046-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/misals/LeetCode_2025/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1612-avoid-flood-in-the-city](https://github.com/misals/LeetCode_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/misals/LeetCode_2025/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |

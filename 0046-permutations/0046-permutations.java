@@ -1,21 +1,21 @@
 class Solution {
-    public void swapNumber(int[] nums, int i, int j) {
-        int temp = nums[i];
+    public void swap(int[] nums, int i, int j) {
+        int num = nums[i];
         nums[i] = nums[j];
-        nums[j] = temp;
+        nums[j] = num;
     }
 
-    public void findPermute(int ind, int n, int[] nums, List<Integer> temp, List<List<Integer>> ans) {
+    public void permute(int ind, int n, int[] nums, List<Integer> temp, List<List<Integer>> ans) {
         if (ind == n) {
             ans.add(new ArrayList<>(temp));
             return;
         }
 
         for (int i = ind; i < n; i++) {
-            swapNumber(nums, ind, i);
+            swap(nums, ind, i);
             temp.add(nums[ind]);
-            findPermute(ind + 1, n, nums, temp, ans);
-            swapNumber(nums, ind, i);
+            permute(ind + 1, n, nums, temp, ans);
+            swap(nums, ind, i);
             temp.remove(temp.size() - 1);
         }
     }
@@ -26,7 +26,7 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
 
-        findPermute(0, n, nums, temp, ans);
+        permute(0, n, nums, temp, ans);
 
         return ans;
     }

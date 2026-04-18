@@ -486,6 +486,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/misals/LeetCode_2025/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/misals/LeetCode_2025/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/misals/LeetCode_2025/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/misals/LeetCode_2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
@@ -786,6 +787,7 @@
 | [0053-maximum-subarray](https://github.com/misals/LeetCode_2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/misals/LeetCode_2025/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/misals/LeetCode_2025/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/misals/LeetCode_2025/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
@@ -937,6 +939,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/misals/LeetCode_2025/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/misals/LeetCode_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/misals/LeetCode_2025/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |

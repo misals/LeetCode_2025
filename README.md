@@ -802,6 +802,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/misals/LeetCode_2025/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/misals/LeetCode_2025/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
@@ -873,6 +874,7 @@
 | [0090-subsets-ii](https://github.com/misals/LeetCode_2025/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/misals/LeetCode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/misals/LeetCode_2025/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/misals/LeetCode_2025/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/misals/LeetCode_2025/tree/master/1018-binary-prefix-divisible-by-5) |

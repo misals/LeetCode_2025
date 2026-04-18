@@ -1,33 +1,37 @@
 class Solution {
-    public boolean isPalindrome(String s, int start, int end) {
-        while(start <= end) {
-            if (s.charAt(start++) != s.charAt(end--)) {
+    public boolean checkPalindrome(String s, int i, int j) {
+        while (i <= j) {
+            if (s.charAt(i) != s.charAt(j)) {
                 return false;
             }
+            i++;
+            j--;
         }
         return true;
     }
 
-    public void doPartition(int ind, String s, List<String> path, List<List<String>> ans) {
-        if (ind == s.length()) {
+    public void partition(int ind, int n, String s, List<String> path, List<List<String>> ans) {
+        if (ind == n) {
             ans.add(new ArrayList<>(path));
             return;
         }
 
-        for (int i = ind; i < s.length(); i++) {
-            if (isPalindrome(s, ind, i)) {
+        for (int i = ind ; i < n; i++) {
+            if (checkPalindrome(s, ind, i)) {
                 path.add(s.substring(ind, i + 1));
-                doPartition(i + 1, s, path, ans);
+                partition(i + 1, n, s, path, ans);
                 path.remove(path.size() - 1);
             }
         }
     }
 
     public List<List<String>> partition(String s) {
+        int n = s.length();
+
         List<List<String>> ans = new ArrayList<>();
         List<String> path = new ArrayList<>();
 
-        doPartition(0, s, path, ans);
+        partition(0, n, s, path, ans);
 
         return ans;
     }

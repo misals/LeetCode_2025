@@ -558,6 +558,7 @@
 | [1006-vowel-spellchecker](https://github.com/misals/LeetCode_2025/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/misals/LeetCode_2025/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/misals/LeetCode_2025/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/misals/LeetCode_2025/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/misals/LeetCode_2025/tree/master/1170-shortest-common-supersequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/misals/LeetCode_2025/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -829,6 +830,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/misals/LeetCode_2025/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/misals/LeetCode_2025/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/misals/LeetCode_2025/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/misals/LeetCode_2025/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/misals/LeetCode_2025/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/misals/LeetCode_2025/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/1262-greatest-sum-divisible-by-three) |

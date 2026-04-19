@@ -20,9 +20,10 @@ class Solution {
             return root;
         }
 
-        if (left != null) {
-            return left;
+        if (left == null) {
+            return right;
         }
-        return right;
+
+        return left;
     }
 }

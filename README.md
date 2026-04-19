@@ -98,6 +98,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/misals/LeetCode_2025/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/misals/LeetCode_2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/misals/LeetCode_2025/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/misals/LeetCode_2025/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/misals/LeetCode_2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -860,6 +861,7 @@
 | [0941-sort-array-by-parity](https://github.com/misals/LeetCode_2025/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/misals/LeetCode_2025/tree/master/1129-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/misals/LeetCode_2025/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/misals/LeetCode_2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/misals/LeetCode_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -924,6 +926,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/misals/LeetCode_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/misals/LeetCode_2025/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/misals/LeetCode_2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/misals/LeetCode_2025/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/misals/LeetCode_2025/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/misals/LeetCode_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |

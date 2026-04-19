@@ -718,6 +718,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/misals/LeetCode_2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -762,6 +763,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/misals/LeetCode_2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -980,6 +982,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/1382-balance-a-binary-search-tree) |

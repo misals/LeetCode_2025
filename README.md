@@ -104,6 +104,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/misals/LeetCode_2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/misals/LeetCode_2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/misals/LeetCode_2025/tree/master/2023-design-movie-rental-system) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/misals/LeetCode_2025/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/misals/LeetCode_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/misals/LeetCode_2025/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -414,6 +415,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/misals/LeetCode_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/misals/LeetCode_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/misals/LeetCode_2025/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/misals/LeetCode_2025/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/misals/LeetCode_2025/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/misals/LeetCode_2025/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |

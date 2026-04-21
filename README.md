@@ -549,6 +549,7 @@
 | [0010-regular-expression-matching](https://github.com/misals/LeetCode_2025/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/misals/LeetCode_2025/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/misals/LeetCode_2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/misals/LeetCode_2025/tree/master/0165-compare-version-numbers) |
@@ -809,6 +810,7 @@
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/misals/LeetCode_2025/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/misals/LeetCode_2025/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/misals/LeetCode_2025/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/misals/LeetCode_2025/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/misals/LeetCode_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |

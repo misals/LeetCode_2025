@@ -95,6 +95,7 @@
 | [1646-kth-missing-positive-number](https://github.com/misals/LeetCode_2025/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/misals/LeetCode_2025/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/misals/LeetCode_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/misals/LeetCode_2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/misals/LeetCode_2025/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/misals/LeetCode_2025/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/misals/LeetCode_2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -473,6 +474,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/misals/LeetCode_2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/misals/LeetCode_2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1082,4 +1084,8 @@
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/misals/LeetCode_2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/misals/LeetCode_2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->

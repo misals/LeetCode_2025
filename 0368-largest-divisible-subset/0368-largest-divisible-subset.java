@@ -1,13 +1,11 @@
 class Solution {
     public List<Integer> largestDivisibleSubset(int[] nums) {
         int n = nums.length;
-        int maxi = 0;
-        int lastIndex = 0;
-
-        int[] dp = new int[n];
         int[] hash = new int[n];
+        int[] dp = new int[n];
 
-        Arrays.fill(dp, 1);
+        int maxi = 0;
+        int startIndex = 0;
         Arrays.sort(nums);
 
         for (int i = 0; i < n; i++) {
@@ -20,18 +18,18 @@ class Solution {
             }
             if (dp[i] > maxi) {
                 maxi = dp[i];
-                lastIndex = i;
+                startIndex = i;
             }
         }
 
-        List<Integer> list = new ArrayList<>();
-        list.add(nums[lastIndex]);
+        List<Integer> ans = new ArrayList<>();
+        ans.add(nums[startIndex]);
 
-        while (lastIndex != hash[lastIndex]) {
-            lastIndex = hash[lastIndex];
-            list.add(nums[lastIndex]);
+        while (startIndex != hash[startIndex]) {
+            startIndex = hash[startIndex];
+            ans.add(nums[startIndex]);
         }
 
-        return list;
+        return ans;
     }
 }

@@ -122,6 +122,7 @@
 | [2429-design-a-food-rating-system](https://github.com/misals/LeetCode_2025/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/misals/LeetCode_2025/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/misals/LeetCode_2025/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -586,6 +587,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/misals/LeetCode_2025/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/misals/LeetCode_2025/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/misals/LeetCode_2025/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/misals/LeetCode_2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/misals/LeetCode_2025/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/misals/LeetCode_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -893,6 +895,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/misals/LeetCode_2025/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/misals/LeetCode_2025/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/misals/LeetCode_2025/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Bit Manipulation
 |  |
 | ------- |

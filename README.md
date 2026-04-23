@@ -52,6 +52,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/misals/LeetCode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/misals/LeetCode_2025/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
@@ -352,6 +353,7 @@
 | [0217-contains-duplicate](https://github.com/misals/LeetCode_2025/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/misals/LeetCode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/misals/LeetCode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/misals/LeetCode_2025/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/misals/LeetCode_2025/tree/master/0759-set-intersection-size-at-least-two) |
@@ -416,6 +418,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/misals/LeetCode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/misals/LeetCode_2025/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/misals/LeetCode_2025/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/misals/LeetCode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/misals/LeetCode_2025/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/misals/LeetCode_2025/tree/master/0759-set-intersection-size-at-least-two) |
@@ -839,6 +842,7 @@
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/misals/LeetCode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/misals/LeetCode_2025/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |

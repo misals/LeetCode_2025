@@ -133,6 +133,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/misals/LeetCode_2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2615-sum-of-distances](https://github.com/misals/LeetCode_2025/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/misals/LeetCode_2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/misals/LeetCode_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
@@ -306,6 +307,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/misals/LeetCode_2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2615-sum-of-distances](https://github.com/misals/LeetCode_2025/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/misals/LeetCode_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -395,6 +397,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/misals/LeetCode_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/misals/LeetCode_2025/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/misals/LeetCode_2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/misals/LeetCode_2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |

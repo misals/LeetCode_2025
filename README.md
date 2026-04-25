@@ -36,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/misals/LeetCode_2025/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/misals/LeetCode_2025/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/misals/LeetCode_2025/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/misals/LeetCode_2025/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/misals/LeetCode_2025/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
@@ -273,6 +274,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/misals/LeetCode_2025/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/misals/LeetCode_2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/misals/LeetCode_2025/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/misals/LeetCode_2025/tree/master/0347-top-k-frequent-elements) |
@@ -568,6 +570,7 @@
 | [0115-distinct-subsequences](https://github.com/misals/LeetCode_2025/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/misals/LeetCode_2025/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/misals/LeetCode_2025/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/misals/LeetCode_2025/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/misals/LeetCode_2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/misals/LeetCode_2025/tree/master/0179-largest-number) |
@@ -838,6 +841,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/misals/LeetCode_2025/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/misals/LeetCode_2025/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/misals/LeetCode_2025/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
@@ -912,6 +916,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/misals/LeetCode_2025/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/misals/LeetCode_2025/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/misals/LeetCode_2025/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/misals/LeetCode_2025/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -987,6 +992,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/misals/LeetCode_2025/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/misals/LeetCode_2025/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/misals/LeetCode_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/misals/LeetCode_2025/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |

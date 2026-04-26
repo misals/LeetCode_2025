@@ -93,6 +93,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/misals/LeetCode_2025/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/misals/LeetCode_2025/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/misals/LeetCode_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -222,6 +223,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/misals/LeetCode_2025/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/misals/LeetCode_2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
@@ -260,6 +262,7 @@
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/misals/LeetCode_2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
@@ -492,6 +495,7 @@
 | [1306-jump-game-iii](https://github.com/misals/LeetCode_2025/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/misals/LeetCode_2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/misals/LeetCode_2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/misals/LeetCode_2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1123,5 +1127,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/misals/LeetCode_2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->

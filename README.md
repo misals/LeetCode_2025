@@ -214,6 +214,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/misals/LeetCode_2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -484,6 +485,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/misals/LeetCode_2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1119,6 +1121,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/misals/LeetCode_2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -1127,6 +1130,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/misals/LeetCode_2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->

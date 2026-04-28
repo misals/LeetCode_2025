@@ -112,6 +112,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/misals/LeetCode_2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/misals/LeetCode_2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/misals/LeetCode_2025/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/misals/LeetCode_2025/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/misals/LeetCode_2025/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/misals/LeetCode_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -264,6 +265,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/misals/LeetCode_2025/tree/master/1559-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/misals/LeetCode_2025/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/misals/LeetCode_2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
@@ -377,6 +379,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/misals/LeetCode_2025/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/misals/LeetCode_2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/misals/LeetCode_2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/misals/LeetCode_2025/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/misals/LeetCode_2025/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/misals/LeetCode_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -540,6 +543,7 @@
 | [1642-water-bottles](https://github.com/misals/LeetCode_2025/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/misals/LeetCode_2025/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/misals/LeetCode_2025/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/misals/LeetCode_2025/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/misals/LeetCode_2025/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/misals/LeetCode_2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/misals/LeetCode_2025/tree/master/2448-count-number-of-bad-pairs) |

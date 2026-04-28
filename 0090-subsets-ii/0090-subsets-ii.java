@@ -3,6 +3,8 @@ class Solution {
       
         ans.add(new ArrayList<>(temp));
 
+        if (ind >= n) return;
+
         for (int i = ind; i < n; i++) {
             if (i > ind && nums[i] == nums[i - 1]) {
                 continue;

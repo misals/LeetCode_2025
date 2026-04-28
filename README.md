@@ -490,6 +490,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/misals/LeetCode_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/misals/LeetCode_2025/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/misals/LeetCode_2025/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
@@ -764,6 +765,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/misals/LeetCode_2025/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -810,6 +812,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/misals/LeetCode_2025/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/misals/LeetCode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/misals/LeetCode_2025/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1144,4 +1147,12 @@
 | [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/misals/LeetCode_2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/misals/LeetCode_2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/misals/LeetCode_2025/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/misals/LeetCode_2025/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

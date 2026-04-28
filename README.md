@@ -288,6 +288,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/misals/LeetCode_2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/misals/LeetCode_2025/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/misals/LeetCode_2025/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/misals/LeetCode_2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/misals/LeetCode_2025/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/misals/LeetCode_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
@@ -596,6 +597,7 @@
 | [0257-binary-tree-paths](https://github.com/misals/LeetCode_2025/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/misals/LeetCode_2025/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/misals/LeetCode_2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1027,6 +1029,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/misals/LeetCode_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/misals/LeetCode_2025/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/misals/LeetCode_2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/misals/LeetCode_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/misals/LeetCode_2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

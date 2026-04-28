@@ -13,37 +13,23 @@ class Solution {
 
         Collections.sort(list);
 
-        int cnt1 = 0;
-        int cnt2 = 0;
+        int cnt = 0;
 
         int sz = list.size();
-        int mid1 = sz / 2;
-        int mid2 = (sz / 2) - 1;
+        int mid = sz / 2;
 
         for (int i = 0; i < sz; i++) {
-            if (i != mid1 && mid1 >= 0 && mid1 < sz) {
-                int num = Math.abs(list.get(i) - list.get(mid1));
+            if (i != mid) {
+                int num = Math.abs(list.get(i) - list.get(mid));
 
                 if (num % x == 0) {
-                    cnt1 += num / x;
+                    cnt += num / x;
                 } else {
                     return -1;
                 }
             }
         }
 
-        for (int i = 0; i < sz; i++) {
-            if (i != mid2 && mid2 >= 0 && mid2 < sz) {
-                int num = Math.abs(list.get(i) - list.get(mid2));
-
-                if (num % x == 0) {
-                    cnt2 += num / x;
-                } else {
-                    return -1;
-                }
-            }
-        }
-
-        return Math.min(cnt1, cnt2);
+        return cnt;
     }
 }

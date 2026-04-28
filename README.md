@@ -17,6 +17,7 @@
 | [0040-combination-sum-ii](https://github.com/misals/LeetCode_2025/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/misals/LeetCode_2025/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/misals/LeetCode_2025/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/misals/LeetCode_2025/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/misals/LeetCode_2025/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/misals/LeetCode_2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/misals/LeetCode_2025/tree/master/0055-jump-game) |
@@ -280,6 +281,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/misals/LeetCode_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/misals/LeetCode_2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/misals/LeetCode_2025/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/misals/LeetCode_2025/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/misals/LeetCode_2025/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -363,6 +365,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/misals/LeetCode_2025/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/misals/LeetCode_2025/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/misals/LeetCode_2025/tree/master/0179-largest-number) |
@@ -586,6 +589,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/misals/LeetCode_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/misals/LeetCode_2025/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/misals/LeetCode_2025/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/misals/LeetCode_2025/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/misals/LeetCode_2025/tree/master/0091-decode-ways) |

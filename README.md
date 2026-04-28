@@ -281,6 +281,7 @@
 | [0036-valid-sudoku](https://github.com/misals/LeetCode_2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/misals/LeetCode_2025/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/misals/LeetCode_2025/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/misals/LeetCode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/misals/LeetCode_2025/tree/master/0128-longest-consecutive-sequence) |
@@ -586,6 +587,7 @@
 | [0010-regular-expression-matching](https://github.com/misals/LeetCode_2025/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/misals/LeetCode_2025/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/misals/LeetCode_2025/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/misals/LeetCode_2025/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/misals/LeetCode_2025/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/misals/LeetCode_2025/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/misals/LeetCode_2025/tree/master/0131-palindrome-partitioning) |
@@ -1028,6 +1030,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/misals/LeetCode_2025/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/misals/LeetCode_2025/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/misals/LeetCode_2025/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/misals/LeetCode_2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |

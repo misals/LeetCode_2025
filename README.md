@@ -20,6 +20,7 @@
 | [0051-n-queens](https://github.com/misals/LeetCode_2025/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/misals/LeetCode_2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/misals/LeetCode_2025/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/misals/LeetCode_2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/misals/LeetCode_2025/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0073-set-matrix-zeroes) |
@@ -358,6 +359,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/misals/LeetCode_2025/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/misals/LeetCode_2025/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/misals/LeetCode_2025/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/misals/LeetCode_2025/tree/master/0217-contains-duplicate) |

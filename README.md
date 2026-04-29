@@ -221,6 +221,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/misals/LeetCode_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/misals/LeetCode_2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -241,6 +242,7 @@
 | [0239-sliding-window-maximum](https://github.com/misals/LeetCode_2025/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/misals/LeetCode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/misals/LeetCode_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/misals/LeetCode_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/misals/LeetCode_2025/tree/master/2023-design-movie-rental-system) |
@@ -504,6 +506,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/misals/LeetCode_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0801-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/misals/LeetCode_2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -894,6 +897,7 @@
 | [0542-01-matrix](https://github.com/misals/LeetCode_2025/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/misals/LeetCode_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/misals/LeetCode_2025/tree/master/0983-minimum-cost-for-tickets) |
@@ -1153,10 +1157,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/misals/LeetCode_2025/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/misals/LeetCode_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/misals/LeetCode_2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/misals/LeetCode_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/misals/LeetCode_2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |

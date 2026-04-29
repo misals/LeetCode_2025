@@ -153,6 +153,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/misals/LeetCode_2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3225-maximum-score-from-grid-operations](https://github.com/misals/LeetCode_2025/tree/master/3225-maximum-score-from-grid-operations) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/misals/LeetCode_2025/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/misals/LeetCode_2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/misals/LeetCode_2025/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -273,6 +274,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/misals/LeetCode_2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2662-check-knight-tour-configuration](https://github.com/misals/LeetCode_2025/tree/master/2662-check-knight-tour-configuration) |
+| [3225-maximum-score-from-grid-operations](https://github.com/misals/LeetCode_2025/tree/master/3225-maximum-score-from-grid-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/misals/LeetCode_2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
@@ -422,6 +424,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2529-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/misals/LeetCode_2025/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/misals/LeetCode_2025/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3225-maximum-score-from-grid-operations](https://github.com/misals/LeetCode_2025/tree/master/3225-maximum-score-from-grid-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/misals/LeetCode_2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/misals/LeetCode_2025/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -918,6 +921,7 @@
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/misals/LeetCode_2025/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3225-maximum-score-from-grid-operations](https://github.com/misals/LeetCode_2025/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/misals/LeetCode_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/misals/LeetCode_2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |

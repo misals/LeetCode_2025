@@ -52,6 +52,7 @@
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/misals/LeetCode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/misals/LeetCode_2025/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/misals/LeetCode_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
@@ -548,6 +549,7 @@
 | [0231-power-of-two](https://github.com/misals/LeetCode_2025/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/misals/LeetCode_2025/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/misals/LeetCode_2025/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/misals/LeetCode_2025/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/misals/LeetCode_2025/tree/master/0900-reordered-power-of-2) |
@@ -887,6 +889,7 @@
 | [0322-coin-change](https://github.com/misals/LeetCode_2025/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/misals/LeetCode_2025/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/misals/LeetCode_2025/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/misals/LeetCode_2025/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/misals/LeetCode_2025/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/misals/LeetCode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/misals/LeetCode_2025/tree/master/0435-non-overlapping-intervals) |

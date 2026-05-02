@@ -551,6 +551,7 @@
 | [0371-sum-of-two-integers](https://github.com/misals/LeetCode_2025/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/misals/LeetCode_2025/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/misals/LeetCode_2025/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/misals/LeetCode_2025/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/misals/LeetCode_2025/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/misals/LeetCode_2025/tree/master/1018-largest-perimeter-triangle) |
@@ -901,6 +902,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/misals/LeetCode_2025/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/misals/LeetCode_2025/tree/master/0788-rotated-digits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/misals/LeetCode_2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/misals/LeetCode_2025/tree/master/0967-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/misals/LeetCode_2025/tree/master/0983-minimum-cost-for-tickets) |

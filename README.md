@@ -616,6 +616,7 @@
 | [0474-ones-and-zeroes](https://github.com/misals/LeetCode_2025/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/misals/LeetCode_2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/misals/LeetCode_2025/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/misals/LeetCode_2025/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/misals/LeetCode_2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/misals/LeetCode_2025/tree/master/1006-vowel-spellchecker) |
@@ -1179,6 +1180,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/misals/LeetCode_2025/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/misals/LeetCode_2025/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

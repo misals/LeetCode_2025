@@ -1,22 +1,13 @@
 class Solution {
     public int findMin(int[] nums) {
-        int low = 0, high = nums.length - 1;
+        int n = nums.length;
 
-        while (low < high) {
-            int mid = low + (high - low) / 2;
+        int mini = Integer.MAX_VALUE;
 
-            if (nums[mid] > nums[high]) {
-                // Minimum lies in the right half
-                low = mid + 1;
-            } else if (nums[mid] < nums[high]) {
-                // Minimum is at mid or in the left half
-                high = mid;
-            } else {
-                // Cannot determine the correct half because of duplicates
-                high--;
-            }
+        for (int i = 0; i < n; i++) {
+            mini = Math.min(mini, nums[i]);
         }
 
-        return nums[low];
+        return mini;
     }
 }

@@ -41,6 +41,7 @@
 | [0135-candy](https://github.com/misals/LeetCode_2025/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/misals/LeetCode_2025/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/misals/LeetCode_2025/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/misals/LeetCode_2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/misals/LeetCode_2025/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/misals/LeetCode_2025/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/misals/LeetCode_2025/tree/master/0200-number-of-islands) |
@@ -1012,6 +1013,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/misals/LeetCode_2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/misals/LeetCode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/misals/LeetCode_2025/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/misals/LeetCode_2025/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/misals/LeetCode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |

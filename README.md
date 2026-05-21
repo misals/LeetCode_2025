@@ -153,6 +153,7 @@
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/misals/LeetCode_2025/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/misals/LeetCode_2025/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/misals/LeetCode_2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/misals/LeetCode_2025/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/misals/LeetCode_2025/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-maximum-score-from-grid-operations](https://github.com/misals/LeetCode_2025/tree/master/3225-maximum-score-from-grid-operations) |
@@ -336,6 +337,7 @@
 | [2689-rearranging-fruits](https://github.com/misals/LeetCode_2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/misals/LeetCode_2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/misals/LeetCode_2025/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/misals/LeetCode_2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -647,6 +649,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/misals/LeetCode_2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/misals/LeetCode_2025/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/misals/LeetCode_2025/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/misals/LeetCode_2025/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/misals/LeetCode_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/misals/LeetCode_2025/tree/master/3396-valid-word) |
@@ -967,6 +970,7 @@
 | [0386-lexicographical-numbers](https://github.com/misals/LeetCode_2025/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/misals/LeetCode_2025/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/misals/LeetCode_2025/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/misals/LeetCode_2025/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -188,6 +188,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/misals/LeetCode_2025/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/misals/LeetCode_2025/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/misals/LeetCode_2025/tree/master/3634-minimum-removals-to-balance-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/misals/LeetCode_2025/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/misals/LeetCode_2025/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3719-longest-balanced-subarray-i](https://github.com/misals/LeetCode_2025/tree/master/3719-longest-balanced-subarray-i) |
@@ -257,6 +258,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/misals/LeetCode_2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/misals/LeetCode_2025/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/misals/LeetCode_2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/misals/LeetCode_2025/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/misals/LeetCode_2025/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -476,6 +478,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/misals/LeetCode_2025/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/misals/LeetCode_2025/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/misals/LeetCode_2025/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/misals/LeetCode_2025/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/misals/LeetCode_2025/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/misals/LeetCode_2025/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/misals/LeetCode_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1106,6 +1109,7 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/misals/LeetCode_2025/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/misals/LeetCode_2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/misals/LeetCode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Geometry

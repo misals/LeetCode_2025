@@ -597,6 +597,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/misals/LeetCode_2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/misals/LeetCode_2025/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/misals/LeetCode_2025/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/misals/LeetCode_2025/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/misals/LeetCode_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/misals/LeetCode_2025/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/misals/LeetCode_2025/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -954,6 +955,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/misals/LeetCode_2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/misals/LeetCode_2025/tree/master/3618-find-the-original-typed-string-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/misals/LeetCode_2025/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/misals/LeetCode_2025/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/misals/LeetCode_2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/misals/LeetCode_2025/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/misals/LeetCode_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |

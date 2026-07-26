@@ -69,6 +69,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/misals/LeetCode_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/misals/LeetCode_2025/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/misals/LeetCode_2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/misals/LeetCode_2025/tree/master/0733-flood-fill) |
 | [0759-set-intersection-size-at-least-two](https://github.com/misals/LeetCode_2025/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/misals/LeetCode_2025/tree/master/0794-swim-in-rising-water) |
@@ -393,6 +394,7 @@
 | [0435-non-overlapping-intervals](https://github.com/misals/LeetCode_2025/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/misals/LeetCode_2025/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/misals/LeetCode_2025/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/misals/LeetCode_2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/misals/LeetCode_2025/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/misals/LeetCode_2025/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/misals/LeetCode_2025/tree/master/0941-sort-array-by-parity) |
@@ -571,6 +573,7 @@
 | [0371-sum-of-two-integers](https://github.com/misals/LeetCode_2025/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/misals/LeetCode_2025/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/misals/LeetCode_2025/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/misals/LeetCode_2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/misals/LeetCode_2025/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/misals/LeetCode_2025/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/misals/LeetCode_2025/tree/master/0900-reordered-power-of-2) |

@@ -484,6 +484,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/misals/LeetCode_2025/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/misals/LeetCode_2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/misals/LeetCode_2025/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/misals/LeetCode_2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/misals/LeetCode_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -668,6 +669,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/misals/LeetCode_2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/misals/LeetCode_2025/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/misals/LeetCode_2025/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/misals/LeetCode_2025/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/misals/LeetCode_2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/misals/LeetCode_2025/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/misals/LeetCode_2025/tree/master/2887-sort-vowels-in-a-string) |
@@ -958,6 +960,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/misals/LeetCode_2025/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/misals/LeetCode_2025/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/misals/LeetCode_2025/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/misals/LeetCode_2025/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2808-painting-the-walls](https://github.com/misals/LeetCode_2025/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/misals/LeetCode_2025/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/misals/LeetCode_2025/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -990,6 +993,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misals/LeetCode_2025/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/misals/LeetCode_2025/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/misals/LeetCode_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/misals/LeetCode_2025/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/misals/LeetCode_2025/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/misals/LeetCode_2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/misals/LeetCode_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |

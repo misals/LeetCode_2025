@@ -670,6 +670,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/misals/LeetCode_2025/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/misals/LeetCode_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/misals/LeetCode_2025/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/misals/LeetCode_2025/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/misals/LeetCode_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/misals/LeetCode_2025/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2211-count-collisions-on-a-road](https://github.com/misals/LeetCode_2025/tree/master/2211-count-collisions-on-a-road) |

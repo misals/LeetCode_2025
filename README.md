@@ -93,6 +93,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/misals/LeetCode_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/misals/LeetCode_2025/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/misals/LeetCode_2025/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/misals/LeetCode_2025/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/misals/LeetCode_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/misals/LeetCode_2025/tree/master/1364-tuple-with-same-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/misals/LeetCode_2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -443,6 +444,7 @@
 | [0238-product-of-array-except-self](https://github.com/misals/LeetCode_2025/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/misals/LeetCode_2025/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/misals/LeetCode_2025/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/misals/LeetCode_2025/tree/master/1352-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/misals/LeetCode_2025/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/misals/LeetCode_2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/misals/LeetCode_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -586,6 +588,7 @@
 | [0830-largest-triangle-area](https://github.com/misals/LeetCode_2025/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/misals/LeetCode_2025/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/misals/LeetCode_2025/tree/master/1018-largest-perimeter-triangle) |
+| [1352-product-of-the-last-k-numbers](https://github.com/misals/LeetCode_2025/tree/master/1352-product-of-the-last-k-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/misals/LeetCode_2025/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/misals/LeetCode_2025/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/misals/LeetCode_2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -744,6 +747,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/misals/LeetCode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/misals/LeetCode_2025/tree/master/1352-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/misals/LeetCode_2025/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/misals/LeetCode_2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/misals/LeetCode_2025/tree/master/2023-design-movie-rental-system) |
@@ -1252,4 +1256,8 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/misals/LeetCode_2025/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/misals/LeetCode_2025/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
